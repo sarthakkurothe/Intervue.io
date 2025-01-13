@@ -45,6 +45,44 @@ The system emphasizes usability and functionality, ensuring smooth interactions,
 
 ## Installation  
 
-### Clone the Repository  
-```bash  
-cd intervue.io_assignment  
+1. Clone the repository:
+
+```bash
+  git clone https://github.com/sarthakkurothe/Intervue.io.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+  cd Intervue.io-main
+```
+
+3. Install the dependencies and run the application:
+
+For Backend:
+
+```bash
+  cd backend
+  npm install
+  npm run start
+```
+
+For Frontend:
+
+```bash
+  cd frontend
+  npm install
+  npm run dev
+```
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/e9e75713-7012-4f1a-8234-b27a67ea5b1d)
+![image](https://github.com/user-attachments/assets/55d90c62-cc95-405e-b316-580a101bc8f4)
+![image](https://github.com/user-attachments/assets/24ca40fc-dffd-4cdc-810f-a33db4ab36b0)
+![image](https://github.com/user-attachments/assets/cee0bfe6-2bcb-4722-aae7-744389a77e0d)
+![image](https://github.com/user-attachments/assets/7ceee614-6f7a-4bfe-9fbe-3e8ce9b499bc)
+
+
+
+
