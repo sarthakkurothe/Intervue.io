@@ -1,7 +1,9 @@
-# Intervue.io SDE Intern Assignment  
+# Intervue.io SDE-Intern
 
 ## Project Overview  
-This is a real-time classroom polling application designed for teachers and students. It allows teachers to ask questions, gather responses, and interact with students via a chat feature. Students can participate in polls, view results, and communicate with the teacher and other students.  
+This project is a dynamic classroom polling application that fosters interactive learning experiences between teachers and students. The platform enables teachers to create live polls, analyze real-time responses, and maintain an engaging environment through integrated chat features. Students can participate in polls, view results instantly, and communicate seamlessly with their peers and the teacher.
+
+The system emphasizes usability and functionality, ensuring smooth interactions, quick responses, and a user-friendly interface. The application is designed to handle real-time data efficiently, making it a robust tool for classroom engagement.
 
 ## Features  
 
