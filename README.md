@@ -47,5 +47,4 @@ The system emphasizes usability and functionality, ensuring smooth interactions,
 
 ### Clone the Repository  
 ```bash  
-git clone https://github.com/Aarize29/intervue.io_assignment.git  
 cd intervue.io_assignment  
